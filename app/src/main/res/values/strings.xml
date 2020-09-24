@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github User Recycler View</string>
+
+    <string name="github_username">Github username</string>
+    <string name="search">Search</string>
+    <string name="not_found">No user found</string>
+</resources>
